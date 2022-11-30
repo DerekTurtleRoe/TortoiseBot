@@ -1,0 +1,22 @@
+{
+  "name": "tortoisebot",
+  "version": "0.0.1",
+  "description": "TortoiseBot is a FLOSS Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekTurtleRoe/TortoiseBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Derek \"Turtle\" Roe",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DerekTurtleRoe/TortoiseBot/issues"
+  },
+  "homepage": "https://github.com/DerekTurtleRoe/TortoiseBot#readme"
+}
